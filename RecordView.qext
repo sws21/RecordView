@@ -1,0 +1,8 @@
+{
+	"name" : "Record View",
+	"description" : "Transposed table view (fields as rows, records as columns).",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "0.3",
+	"author": "Stephen Skinner, 2020-02-11"
+}

@@ -1,0 +1,33 @@
+.qv-object-RecordView div.qv-object-content-container {
+	overflow: auto;
+	}
+.qv-object-RecordView td {
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	// white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+	padding: 5px;
+	max-width: 30px;
+	}
+.qv-object-RecordView td.label {
+	// font-weight: bold;
+	//min-width: 15px;
+	// max-width: 15px;
+	width: 115px;
+	background-color: #FBFBFB;
+	}
+.qv-object-RecordView td.topData {
+	font-weight: bold;
+}
+.qv-object-RecordView td.numeric {
+
+	}
+.qv-object-RecordView button {
+	width: 100%;
+	}
